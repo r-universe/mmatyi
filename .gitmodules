@@ -3,3 +3,8 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "flagr"]
+	path = flagr
+	url = https://github.com/cran/flagr
+	shallow = true
+	registered = true
